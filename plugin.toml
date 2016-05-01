@@ -1,0 +1,4 @@
+[plugin]
+description = "only root user can manage plugins"
+version = "1.0.0"
+[plugin.config]
